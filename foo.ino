@@ -1,5 +1,6 @@
 # Table-bot-challenge-
-//this code will make a robot do all of the table bot challenges 
+//this code will make a robot do all of the table bot challenges// 
+//More programs will be added to this//
 #define PWMA 3
 #define PWMB 11
 
